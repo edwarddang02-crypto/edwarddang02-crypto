@@ -1,6 +1,6 @@
 # 👋 Hello! It's Edward Dang
 
-A passionate explorer in the fields of **Automation Control** and **Reinforcement Learning**.
+A rookie in the fields of **Automation Control** and **Reinforcement Learning**.
 
 ---
 
